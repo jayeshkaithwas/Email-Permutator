@@ -27,13 +27,13 @@ The `email_permutator` script reads names from a file, generates possible email 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/email-permutator.git
+   git clone https://github.com/yourusername/Rmail-Permutator.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd email-permutator
+   cd Email-Permutator
    ```
 
 3. Ensure you have Python 3 installed and any necessary modules (e.g., `permutations`) are available in your environment. If you need to install the `permutations` module, make sure it's accessible to the script.
